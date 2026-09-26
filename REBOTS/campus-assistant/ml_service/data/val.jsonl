@@ -1,0 +1,450 @@
+{"text": "Are there any scholarships available?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "do you help with visa applications?, and how do i apply for phd?", "domains": ["International", "Admissions"], "intent": "get_info"}
+{"text": "How do I apply for campus housing?", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "how do i book a study room?", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "Do you help with visa applications?. i need help with my resume", "domains": ["International", "Career Services"], "intent": "get_info"}
+{"text": "Where is the cafeteria", "domains": ["General"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "what is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "Are there any scholarships available?. can i upload my transcripts now?", "domains": ["Fees & Finance", "Admissions"], "intent": "get_info"}
+{"text": "How do I book a study room? also i need help with my resume", "domains": ["Facilities", "Career Services"], "intent": "perform_action"}
+{"text": "I need help with my resume, and when is the deadline for admissions?", "domains": ["Career Services", "Admissions"], "intent": "perform_action"}
+{"text": "Are there any internship opportunities? also what is the code of conduct?", "domains": ["Career Services", "Disciplinary"], "intent": "get_info"}
+{"text": "Do you help with visa applications? and how do i join the coding club?", "domains": ["International", "Student Life"], "intent": "get_info"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "When is the next career fair? also thanks", "domains": ["Career Services", "General"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I apply for PhD?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "Are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "How do I register for CS101?. when is the next campus event?", "domains": ["Registration", "Student Life"], "intent": "perform_action"}
+{"text": "How do I book a study room?", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "I want to know about my grades. the library wifi is down", "domains": ["Academics", "Facilities"], "intent": "get_info"}
+{"text": "When is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "when is the next career fair?, and i need a doctor appointment", "domains": ["Career Services", "Health & Wellness"], "intent": "get_info"}
+{"text": "Hello and how do i apply for campus housing?", "domains": ["General", "Housing"], "intent": "generic"}
+{"text": "How do I register for CS101?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "When is the next campus event?. when is the deadline for admissions?", "domains": ["Student Life", "Admissions"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "what is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "Where is the IT support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "Are there any internship opportunities?. how do i book a study room?", "domains": ["Career Services", "Facilities"], "intent": "get_info"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "How do I defer my semester?", "domains": ["Academics"], "intent": "perform_action"}
+{"text": "where is the medical center?, and what is the fee for next semester?", "domains": ["Health & Wellness", "Fees & Finance"], "intent": "get_info"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "Do you help with visa applications, and hello", "domains": ["International", "General"], "intent": "get_info"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "How do I apply for MBA and when is the next campus event", "domains": ["Admissions", "Student Life"], "intent": "perform_action"}
+{"text": "academic calendar for next year, and my ac in the room is not working", "domains": ["Academics", "Housing"], "intent": "get_info"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "how do i book a study room? also when is the next career fair?", "domains": ["Facilities", "Career Services"], "intent": "perform_action"}
+{"text": "How do I pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?, and i want to know about my grades", "domains": ["International", "Academics"], "intent": "get_info"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "Are there any extra classes for Physics101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "how do i join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines", "domains": ["International"], "intent": "get_info"}
+{"text": "what is the code of conduct?. i need help with my resume", "domains": ["Disciplinary", "Career Services"], "intent": "get_info"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "can i upload my transcripts now?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "do you help with visa applications? and are there any scholarships available?", "domains": ["International", "Fees & Finance"], "intent": "get_info"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "How do I apply for MBA?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "How do I register for Chemistry101?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "How do I apply for Grad?. are there any internship opportunities?", "domains": ["Admissions", "Career Services"], "intent": "perform_action"}
+{"text": "When is the next campus event", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "how do i book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "How do I pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "how do i appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "Thanks also are there any scholarships available?", "domains": ["General", "Fees & Finance"], "intent": "generic"}
+{"text": "When is the next career fair? also i want to change my dorm room", "domains": ["Career Services", "Housing"], "intent": "get_info"}
+{"text": "Where is the IT support desk? also i want to know about my grades", "domains": ["Facilities", "Academics"], "intent": "get_info"}
+{"text": "how do i apply for campus housing", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "how do i join the coding club. how do i book a counseling session", "domains": ["Student Life", "Health & Wellness"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I book a study room? and where is the medical center?", "domains": ["Facilities", "Health & Wellness"], "intent": "perform_action"}
+{"text": "When is the next campus event? and how do i apply for undergrad?", "domains": ["Student Life", "Admissions"], "intent": "get_info"}
+{"text": "I have an issue with my invoice, and how do i book a study room?", "domains": ["Fees & Finance", "Facilities"], "intent": "clarify"}
+{"text": "What is the code of conduct?, and academic calendar for next year", "domains": ["Disciplinary", "Academics"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "When is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "Can I upload my transcripts now and i want to change my dorm room", "domains": ["Admissions", "Housing"], "intent": "perform_action"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "my ac in the room is not working", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "How do I pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "where is the it support desk", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "how do i pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "what is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "How do I register for Math201?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "Where is the IT support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "What is the code of conduct", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "Do you help with visa applications? and when does enrollment start?", "domains": ["International", "Registration"], "intent": "get_info"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "What are the hostel fees? and are there any scholarships available?", "domains": ["Housing", "Fees & Finance"], "intent": "get_info"}
+{"text": "how do i pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Where is the cafeteria?", "domains": ["General"], "intent": "get_info"}
+{"text": "Where is the medical center and where is the it support desk", "domains": ["Health & Wellness", "Facilities"], "intent": "get_info"}
+{"text": "When is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Thanks", "domains": ["General"], "intent": "generic"}
+{"text": "how do i register for chemistry101?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action? also academic calendar for next year", "domains": ["Disciplinary", "Academics"], "intent": "perform_action"}
+{"text": "Can I upload my transcripts now?. where is the it support desk?", "domains": ["Admissions", "Facilities"], "intent": "perform_action"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "What is the code of conduct", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?. when does enrollment start?", "domains": ["Disciplinary", "Registration"], "intent": "perform_action"}
+{"text": "How do I defer my semester?, and how do i register for physics101?", "domains": ["Academics", "Registration"], "intent": "perform_action"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "Are there any extra classes for History301?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "How do I pay my tuition fee", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "Thanks", "domains": ["General"], "intent": "generic"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "How do I apply for campus housing?", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "i have an issue with my invoice also are there any internship opportunities?", "domains": ["Fees & Finance", "Career Services"], "intent": "clarify"}
+{"text": "Can I upload my transcripts now also what is the code of conduct", "domains": ["Admissions", "Disciplinary"], "intent": "perform_action"}
+{"text": "when is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "How do I defer my semester?", "domains": ["Academics"], "intent": "perform_action"}
+{"text": "The library wifi is down. i can't add cs101 to my schedule", "domains": ["Facilities", "Registration"], "intent": "perform_action"}
+{"text": "the library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "how do i join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "Are there any scholarships available?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "how do i appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?, and what is the code of conduct?", "domains": ["International", "Disciplinary"], "intent": "get_info"}
+{"text": "I want to know about my grades", "domains": ["Academics"], "intent": "get_info"}
+{"text": "What is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "How do I book a study room?", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "What is the code of conduct? and what is the syllabus for math201?", "domains": ["Disciplinary", "Academics"], "intent": "get_info"}
+{"text": "campus map", "domains": ["General"], "intent": "get_info"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "Academic calendar for next year also how do i appeal a disciplinary action", "domains": ["Academics", "Disciplinary"], "intent": "get_info"}
+{"text": "Can I upload my transcripts now?, and thanks", "domains": ["Admissions", "General"], "intent": "perform_action"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "I need a doctor appointment. are there any scholarships available?", "domains": ["Health & Wellness", "Fees & Finance"], "intent": "perform_action"}
+{"text": "I want to know about my grades", "domains": ["Academics"], "intent": "get_info"}
+{"text": "How do I apply for Grad?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "Can I upload my transcripts now? and where is the medical center?", "domains": ["Admissions", "Health & Wellness"], "intent": "perform_action"}
+{"text": "When is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "How do I apply for Undergrad?, and what is the code of conduct?", "domains": ["Admissions", "Disciplinary"], "intent": "perform_action"}
+{"text": "I want to know about my grades", "domains": ["Academics"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "I need help with my resume", "domains": ["Career Services"], "intent": "perform_action"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "How do I book a counseling session", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "Are there any extra classes for Chemistry101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "the library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "Where is the IT support desk? also when does enrollment start?", "domains": ["Facilities", "Registration"], "intent": "get_info"}
+{"text": "how do i pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "How do I book a counseling session? and what is my application status?", "domains": ["Health & Wellness", "Admissions"], "intent": "perform_action"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "How do I pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "I need help with my resume", "domains": ["Career Services"], "intent": "perform_action"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "Where is the IT support desk? also i need a doctor appointment", "domains": ["Facilities", "Health & Wellness"], "intent": "get_info"}
+{"text": "where is the cafeteria?", "domains": ["General"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "Academic calendar for next year also when is the next career fair?", "domains": ["Academics", "Career Services"], "intent": "get_info"}
+{"text": "Are there any scholarships available?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "When is the next campus event? and how do i register for math201?", "domains": ["Student Life", "Registration"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "I want to know about my grades", "domains": ["Academics"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "Are there any scholarships available?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "Where is the medical center", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "What are the hostel fees?", "domains": ["Housing"], "intent": "get_info"}
+{"text": "Where is the medical center? and are there any extra classes for cs101?", "domains": ["Health & Wellness", "Academics"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "What is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "How do I apply for campus housing?", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "Can I upload my transcripts now?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "Thanks, and where is the medical center?", "domains": ["General", "Health & Wellness"], "intent": "generic"}
+{"text": "can i upload my transcripts now?. how do i pay my tuition fee?", "domains": ["Admissions", "Fees & Finance"], "intent": "perform_action"}
+{"text": "How do I register for Physics101? also what is the code of conduct?", "domains": ["Registration", "Disciplinary"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines? and when is the next career fair?", "domains": ["International", "Career Services"], "intent": "get_info"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "are there any internship opportunities", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "when is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "are there any scholarships available? and how do i register for physics101?", "domains": ["Fees & Finance", "Registration"], "intent": "get_info"}
+{"text": "When does enrollment start", "domains": ["Registration"], "intent": "get_info"}
+{"text": "Are there any extra classes for CS101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "What is my application status? also i can't add physics101 to my schedule", "domains": ["Admissions", "Registration"], "intent": "get_info"}
+{"text": "Are there any extra classes for CS101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "What is the syllabus for History301?", "domains": ["Academics"], "intent": "get_info"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "Where is the IT support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "I want to know about my grades", "domains": ["Academics"], "intent": "get_info"}
+{"text": "how do i book a counseling session?, and are there any scholarships available?", "domains": ["Health & Wellness", "Fees & Finance"], "intent": "perform_action"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "I have an issue with my invoice and i need help with my resume", "domains": ["Fees & Finance", "Career Services"], "intent": "clarify"}
+{"text": "Are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Campus map", "domains": ["General"], "intent": "get_info"}
+{"text": "I can't add CS101 to my schedule", "domains": ["Registration"], "intent": "clarify"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "how do i apply for phd?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "i have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "Do you help with visa applications? and what is the code of conduct?", "domains": ["International", "Disciplinary"], "intent": "get_info"}
+{"text": "how do i book a study room?, and are there any scholarships available?", "domains": ["Facilities", "Fees & Finance"], "intent": "perform_action"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "what is my application status?, and how do i book a counseling session?", "domains": ["Admissions", "Health & Wellness"], "intent": "get_info"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "What is the code of conduct", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "When is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "When is the next campus event? and do you help with visa applications?", "domains": ["Student Life", "International"], "intent": "get_info"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "how do i book a study room?", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "Where is the IT support desk?. how do i join the coding club?", "domains": ["Facilities", "Student Life"], "intent": "get_info"}
+{"text": "What are the hostel fees? and are there any internship opportunities?", "domains": ["Housing", "Career Services"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines", "domains": ["International"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "are there any internship opportunities. do you help with visa applications", "domains": ["Career Services", "International"], "intent": "get_info"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "how do i book a counseling session? also what are the hostel fees?", "domains": ["Health & Wellness", "Housing"], "intent": "perform_action"}
+{"text": "what is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "Campus map", "domains": ["General"], "intent": "get_info"}
+{"text": "Where is the IT support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "I need help with my resume", "domains": ["Career Services"], "intent": "perform_action"}
+{"text": "where is the it support desk?. campus map", "domains": ["Facilities", "General"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "Thanks. where is the it support desk?", "domains": ["General", "Facilities"], "intent": "generic"}
+{"text": "When is the deadline for admissions?, and what is the syllabus for history301?", "domains": ["Admissions", "Academics"], "intent": "get_info"}
+{"text": "What are the hostel fees?", "domains": ["Housing"], "intent": "get_info"}
+{"text": "When is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "How do I join the coding club? and how do i defer my semester?", "domains": ["Student Life", "Academics"], "intent": "perform_action"}
+{"text": "can i upload my transcripts now?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "How do I apply for MBA", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "How do I apply for MBA?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "when is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "Thanks and i have an issue with my invoice", "domains": ["General", "Fees & Finance"], "intent": "generic"}
+{"text": "where is the medical center?. can i upload my transcripts now?", "domains": ["Health & Wellness", "Admissions"], "intent": "get_info"}
+{"text": "How do I pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "Academic calendar for next year", "domains": ["Academics"], "intent": "get_info"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "do you help with visa applications", "domains": ["International"], "intent": "get_info"}
+{"text": "Thanks", "domains": ["General"], "intent": "generic"}
+{"text": "How do I book a counseling session?. are there any scholarships available?", "domains": ["Health & Wellness", "Fees & Finance"], "intent": "perform_action"}
+{"text": "Are there any extra classes for History301?. how do i join the coding club?", "domains": ["Academics", "Student Life"], "intent": "clarify"}
+{"text": "When is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "I need help with my resume", "domains": ["Career Services"], "intent": "perform_action"}
+{"text": "I need help with my resume", "domains": ["Career Services"], "intent": "perform_action"}
+{"text": "How do I apply for campus housing?, and are there any scholarships available?", "domains": ["Housing", "Fees & Finance"], "intent": "perform_action"}
+{"text": "How do I defer my semester also how do i book a counseling session", "domains": ["Academics", "Health & Wellness"], "intent": "perform_action"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "My AC in the room is not working", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "When is the next campus event?, and what is the code of conduct?", "domains": ["Student Life", "Disciplinary"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "What time does the main gate close?", "domains": ["General"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines? also i want to know about my grades", "domains": ["International", "Academics"], "intent": "get_info"}
+{"text": "Where is the IT support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "thanks", "domains": ["General"], "intent": "generic"}
+{"text": "how do i register for physics101?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "how do i pay my tuition fee?", "domains": ["Fees & Finance"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "the library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "What is the syllabus for CS101?", "domains": ["Academics"], "intent": "get_info"}
+{"text": "What is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "I want to change my dorm room. do you help with visa applications?", "domains": ["Housing", "International"], "intent": "perform_action"}
+{"text": "what is my application status?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "When does enrollment start? and i need help with my resume", "domains": ["Registration", "Career Services"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "Thanks. what is my application status?", "domains": ["General", "Admissions"], "intent": "generic"}
+{"text": "What are the hostel fees?", "domains": ["Housing"], "intent": "get_info"}
+{"text": "are there any extra classes for cs101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "Are there any extra classes for Physics101?", "domains": ["Academics"], "intent": "clarify"}
+{"text": "Academic calendar for next year also can i upload my transcripts now?", "domains": ["Academics", "Admissions"], "intent": "get_info"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "what is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "when does enrollment start. i want to change my dorm room", "domains": ["Registration", "Housing"], "intent": "get_info"}
+{"text": "How do I join the coding club? also are there any internship opportunities?", "domains": ["Student Life", "Career Services"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice, and i am an international student, what are the travel guidelines?", "domains": ["Fees & Finance", "International"], "intent": "clarify"}
+{"text": "How do I appeal a disciplinary action? and do you help with visa applications?", "domains": ["Disciplinary", "International"], "intent": "perform_action"}
+{"text": "when is the next career fair?. i am an international student, what are the travel guidelines?", "domains": ["Career Services", "International"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "What is the code of conduct?, and do you help with visa applications?", "domains": ["Disciplinary", "International"], "intent": "get_info"}
+{"text": "What are the hostel fees?. where is the cafeteria?", "domains": ["Housing", "General"], "intent": "get_info"}
+{"text": "How do I pay my tuition fee? also what is my application status?", "domains": ["Fees & Finance", "Admissions"], "intent": "perform_action"}
+{"text": "what is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "When is the next career fair?, and are there any scholarships available?", "domains": ["Career Services", "Fees & Finance"], "intent": "get_info"}
+{"text": "Where is the cafeteria? also are there any internship opportunities?", "domains": ["General", "Career Services"], "intent": "get_info"}
+{"text": "Academic calendar for next year", "domains": ["Academics"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "Academic calendar for next year", "domains": ["Academics"], "intent": "get_info"}
+{"text": "how do i book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "How do I apply for MBA?", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "My AC in the room is not working", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "Where is the cafeteria? and when does enrollment start?", "domains": ["General", "Registration"], "intent": "get_info"}
+{"text": "what is the syllabus for math201 also thanks", "domains": ["Academics", "General"], "intent": "get_info"}
+{"text": "Are there any internship opportunities? also what are the hostel fees?", "domains": ["Career Services", "Housing"], "intent": "get_info"}
+{"text": "Where is the cafeteria?", "domains": ["General"], "intent": "get_info"}
+{"text": "Are there any scholarships available?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I apply for campus housing?", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "What is the code of conduct and academic calendar for next year", "domains": ["Disciplinary", "Academics"], "intent": "get_info"}
+{"text": "What is the syllabus for Chemistry101?", "domains": ["Academics"], "intent": "get_info"}
+{"text": "What is the code of conduct?, and i am an international student, what are the travel guidelines?", "domains": ["Disciplinary", "International"], "intent": "get_info"}
+{"text": "Are there any internship opportunities? and how do i book a study room?", "domains": ["Career Services", "Facilities"], "intent": "get_info"}
+{"text": "What is the syllabus for Physics101?, and how do i book a counseling session?", "domains": ["Academics", "Health & Wellness"], "intent": "get_info"}
+{"text": "what is the syllabus for history301? and what is the code of conduct?", "domains": ["Academics", "Disciplinary"], "intent": "get_info"}
+{"text": "How do I pay my tuition fee?. the library wifi is down", "domains": ["Fees & Finance", "Facilities"], "intent": "perform_action"}
+{"text": "Where is the medical center", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "Hello", "domains": ["General"], "intent": "generic"}
+{"text": "when is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "i need help with my resume and i need a doctor appointment", "domains": ["Career Services", "Health & Wellness"], "intent": "perform_action"}
+{"text": "My AC in the room is not working and what is the code of conduct", "domains": ["Housing", "Disciplinary"], "intent": "perform_action"}
+{"text": "How do I register for CS101", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "What is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines? and i need help with my resume", "domains": ["International", "Career Services"], "intent": "get_info"}
+{"text": "When does enrollment start", "domains": ["Registration"], "intent": "get_info"}
+{"text": "how do i apply for campus housing?. how do i join the coding club?", "domains": ["Housing", "Student Life"], "intent": "perform_action"}
+{"text": "how do i appeal a disciplinary action? also i can't add history301 to my schedule", "domains": ["Disciplinary", "Registration"], "intent": "perform_action"}
+{"text": "when is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "How do I join the coding club", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "Can I upload my transcripts now", "domains": ["Admissions"], "intent": "perform_action"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action? and do you help with visa applications?", "domains": ["Disciplinary", "International"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "What is the fee for next semester?, and are there any internship opportunities?", "domains": ["Fees & Finance", "Career Services"], "intent": "get_info"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "I want to change my dorm room and what is the fee for next semester?", "domains": ["Housing", "Fees & Finance"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "When does enrollment start?", "domains": ["Registration"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action and are there any extra classes for history301", "domains": ["Disciplinary", "Academics"], "intent": "perform_action"}
+{"text": "i can't add cs101 to my schedule", "domains": ["Registration"], "intent": "clarify"}
+{"text": "How do I book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "What is the code of conduct?, and i am an international student, what are the travel guidelines?", "domains": ["Disciplinary", "International"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "Are there any scholarships available? and are there any internship opportunities?", "domains": ["Fees & Finance", "Career Services"], "intent": "get_info"}
+{"text": "The library wifi is down. how do i register for chemistry101?", "domains": ["Facilities", "Registration"], "intent": "perform_action"}
+{"text": "Where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "How do I book a study room?", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "Do you help with visa applications? also how do i apply for campus housing?", "domains": ["International", "Housing"], "intent": "get_info"}
+{"text": "the library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "I need a doctor appointment", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "where is the medical center?", "domains": ["Health & Wellness"], "intent": "get_info"}
+{"text": "Do you help with visa applications?", "domains": ["International"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "When does enrollment start also what is the code of conduct", "domains": ["Registration", "Disciplinary"], "intent": "get_info"}
+{"text": "Are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "I want to know about my grades. i can't add history301 to my schedule", "domains": ["Academics", "Registration"], "intent": "get_info"}
+{"text": "Academic calendar for next year", "domains": ["Academics"], "intent": "get_info"}
+{"text": "where is the it support desk?", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "what is the syllabus for physics101?", "domains": ["Academics"], "intent": "get_info"}
+{"text": "when is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "Are there any scholarships available", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "What is the code of conduct?. do you help with visa applications?", "domains": ["Disciplinary", "International"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "When is the next campus event?", "domains": ["Student Life"], "intent": "get_info"}
+{"text": "how do i book a counseling session?", "domains": ["Health & Wellness"], "intent": "perform_action"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "how do i register for history301?", "domains": ["Registration"], "intent": "perform_action"}
+{"text": "Are there any scholarships available? and how do i apply for mba?", "domains": ["Fees & Finance", "Admissions"], "intent": "get_info"}
+{"text": "The library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "I need a doctor appointment and how do i pay my tuition fee?", "domains": ["Health & Wellness", "Fees & Finance"], "intent": "perform_action"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Campus map", "domains": ["General"], "intent": "get_info"}
+{"text": "What is the syllabus for Physics101", "domains": ["Academics"], "intent": "get_info"}
+{"text": "the library wifi is down", "domains": ["Facilities"], "intent": "perform_action"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "How do I book a study room?. do you help with visa applications?", "domains": ["Facilities", "International"], "intent": "perform_action"}
+{"text": "When is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "I want to change my dorm room", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "How do I appeal a disciplinary action?", "domains": ["Disciplinary"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?", "domains": ["International"], "intent": "get_info"}
+{"text": "when is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "When is the next career fair?. my ac in the room is not working", "domains": ["Career Services", "Housing"], "intent": "get_info"}
+{"text": "What are the hostel fees?", "domains": ["Housing"], "intent": "get_info"}
+{"text": "What is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "where is the it support desk", "domains": ["Facilities"], "intent": "get_info"}
+{"text": "Are there any scholarships available?. campus map", "domains": ["Fees & Finance", "General"], "intent": "get_info"}
+{"text": "are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "when is the deadline for admissions?", "domains": ["Admissions"], "intent": "get_info"}
+{"text": "what is the fee for next semester?", "domains": ["Fees & Finance"], "intent": "get_info"}
+{"text": "Academic calendar for next year", "domains": ["Academics"], "intent": "get_info"}
+{"text": "how do i join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "When is the next career fair?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "how do i join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "what is the syllabus for physics101. where is the it support desk", "domains": ["Academics", "Facilities"], "intent": "get_info"}
+{"text": "How do I apply for campus housing?", "domains": ["Housing"], "intent": "perform_action"}
+{"text": "I have an issue with my invoice", "domains": ["Fees & Finance"], "intent": "clarify"}
+{"text": "Are there any internship opportunities?", "domains": ["Career Services"], "intent": "get_info"}
+{"text": "Campus map", "domains": ["General"], "intent": "get_info"}
+{"text": "Where is the medical center?. when is the next career fair?", "domains": ["Health & Wellness", "Career Services"], "intent": "get_info"}
+{"text": "How do I join the coding club?", "domains": ["Student Life"], "intent": "perform_action"}
+{"text": "I am an international student, what are the travel guidelines?, and how do i apply for mba?", "domains": ["International", "Admissions"], "intent": "get_info"}
+{"text": "what is the code of conduct?", "domains": ["Disciplinary"], "intent": "get_info"}
+{"text": "How do I appeal a disciplinary action? also how do i join the coding club?", "domains": ["Disciplinary", "Student Life"], "intent": "perform_action"}
+{"text": "what is the code of conduct?. when is the next campus event?", "domains": ["Disciplinary", "Student Life"], "intent": "get_info"}

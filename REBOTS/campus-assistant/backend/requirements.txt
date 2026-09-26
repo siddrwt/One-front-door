@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+alembic
+psycopg2-binary
+redis
+qdrant-client
+httpx
+python-dotenv
+sentence-transformers
+torch
+pytest
+pytest-asyncio

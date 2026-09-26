@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+.cache
+coverage
+playwright-report
+test-results
+*.tsbuildinfo
+
+# Python environments, bytecode, and test/type-check caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Intermediate ML training checkpoints; keep the final inference model
+REBOTS/campus-assistant/ml_service/models/domain_classifier/checkpoint-*/
+
+# Environment files may contain secrets; keep the example template trackable
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

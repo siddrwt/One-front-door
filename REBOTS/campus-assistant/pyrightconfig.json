@@ -1,0 +1,14 @@
+{
+    "executionEnvironments": [
+        {
+            "root": "backend",
+            "pythonVersion": "3.12"
+        },
+        {
+            "root": "ml_service",
+            "pythonVersion": "3.12"
+        }
+    ],
+    "reportMissingImports": false,
+    "reportMissingModuleSource": false
+}
