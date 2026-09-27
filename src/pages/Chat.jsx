@@ -221,7 +221,7 @@ export default function Chat() {
               <div className="flex items-center gap-2">
                 <span className="w-2.5 h-2.5 rounded-full bg-blue-400 animate-pulse"></span>
                 <h2 className="text-base font-bold text-white tracking-tight">
-                  Campus AI Assistant
+                  LUNA • Campus AI Assistant
                 </h2>
                 <Badge variant="outline" className="text-[10px] bg-blue-950 text-cyan-300 border-blue-800 font-mono">
                   One Front Door
@@ -355,7 +355,7 @@ export default function Chat() {
                     <div className="text-[10px] text-slate-400 mt-1 flex items-center gap-2 pl-1 font-mono">
                       <span>{message.timestamp}</span>
                       <span>•</span>
-                      <span>One Front Door AI</span>
+                      <span>LUNA AI</span>
                     </div>
                   </div>
                 </div>

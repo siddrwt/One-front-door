@@ -459,7 +459,7 @@ export default function Dashboard() {
               ))}
             </div>
 
-            {/* Row 2: Open AI Assistant Button below */}
+            {/* Row 2: Open LUNA Assistant Button below */}
             <div className="pt-2 border-t border-[#edc8af]/80 flex items-center justify-end">
               <button
                 type="button"
@@ -467,7 +467,7 @@ export default function Dashboard() {
                 className="flex items-center justify-center gap-2 px-4 py-2 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs sm:text-sm transition-all shadow-2xs cursor-pointer active:scale-95 w-full sm:w-auto"
               >
                 <Sparkles className="w-4 h-4 text-white" />
-                <span>Open AI Assistant</span>
+                <span>Open LUNA </span>
               </button>
             </div>
           </div>

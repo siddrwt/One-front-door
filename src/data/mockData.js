@@ -478,7 +478,7 @@ export function routeUserQuery(userInput) {
   };
 }
 
-// Student Query History for Campus AI Assistant
+// Student Query History for LUNA AI Assistant
 export const DEFAULT_QUERY_HISTORY = [
   {
     id: "hist-1",
@@ -571,9 +571,9 @@ export const INITIAL_CHAT_MESSAGES = [
     timestamp: "Just now",
     type: "answer",
     domain: "general",
-    domainLabel: "One Front Door Orchestrator",
+    domainLabel: "LUNA Orchestrator",
     confidence: 1.0,
-    answer: "Welcome to **One Front Door**! I am your unified academic and campus AI assistant.\n\nYou can ask any question without worrying about which department handles it — I automatically route across **Fees**, **Examination**, **IT Services**, and **Campus Facilities**.\n\nTry clicking one of the suggested prompts below or type your inquiry directly.",
+    answer: "Welcome to **One Front Door**! I am **LUNA**, your unified academic and campus AI assistant.\n\nYou can ask any question without worrying about which department handles it — I automatically route across **Fees**, **Examination**, **IT Services**, and **Campus Facilities**.\n\nTry clicking one of the suggested prompts below or type your inquiry directly.",
     sources: [
       { title: "One Front Door Architecture Overview", section: "Cross-Domain Orchestration System", linkText: "System Architecture" }
     ],

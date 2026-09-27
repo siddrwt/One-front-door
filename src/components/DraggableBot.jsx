@@ -48,9 +48,9 @@ export default function DraggableBot() {
       timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
       type: 'answer',
       domain: 'general',
-      domainLabel: 'One Front Door Campus AI',
+      domainLabel: 'LUNA Campus AI',
       confidence: 0.99,
-      answer: `Hello **${STUDENT_PROFILE.name}**! 👋\n\nI am your **Campus AI Assistant** powered by *One Front Door*. I can instantly answer your questions about **Semester 5 Courses, Timetable, Attendance, Gate Pass, Fees**, and **IT Services**.\n\nClick the expand icon at the top right to open full screen anytime!`
+      answer: `Hello **${STUDENT_PROFILE.name}**! 👋\n\nI am **LUNA**, your Campus AI Assistant powered by *One Front Door*. I can instantly answer your questions about **Semester 5 Courses, Timetable, Attendance, Gate Pass, Fees**, and **IT Services**.\n\nClick the expand icon at the top right to open full screen anytime!`
     }
   ]);
   const [inputValue, setInputValue] = useState('');
@@ -145,7 +145,7 @@ export default function DraggableBot() {
           {showTooltip && !isOpen && (
             <div className="absolute right-full mr-3 top-1/2 -translate-y-1/2 whitespace-nowrap bg-slate-900 text-white text-[11px] font-medium py-1.5 px-3 rounded-full shadow-xl pointer-events-none animate-bounce flex items-center gap-1.5 border border-slate-700">
               <Sparkles className="w-3.5 h-3.5 text-cyan-400" />
-              <span>Ask AI Assistant • Click to chat</span>
+              <span>Ask LUNA • Click to chat</span>
               <div className="absolute -right-1 top-1/2 -translate-y-1/2 w-2 h-2 bg-slate-900 rotate-45 border-t border-r border-slate-700"></div>
             </div>
           )}
@@ -166,8 +166,8 @@ export default function DraggableBot() {
                   ? 'bg-gradient-to-br from-indigo-700 to-blue-900 border-cyan-400 scale-105'
                   : 'bg-gradient-to-br from-blue-700 via-indigo-600 to-sky-500 border-white/90 hover:scale-105 active:scale-95'
                 } cursor-pointer`}
-              aria-label="Toggle Campus AI Assistant"
-              title={isOpen ? "Close Assistant" : "Open Campus AI Assistant"}
+              aria-label="Toggle LUNA AI Assistant"
+              title={isOpen ? "Close LUNA" : "Open LUNA AI Assistant"}
             >
               {isOpen ? (
                 <X className="w-6 h-6 text-white transition-transform" />
@@ -187,7 +187,7 @@ export default function DraggableBot() {
 
             {/* Mini label below */}
             <div className="absolute top-full left-1/2 -translate-x-1/2 mt-1 px-1.5 py-0.5 rounded bg-slate-900/90 text-white text-[9px] font-bold tracking-wider uppercase shadow-xs pointer-events-none whitespace-nowrap">
-              {isOpen ? 'Close' : 'AI Bot'}
+              {isOpen ? 'Close' : 'LUNA AI'}
             </div>
           </div>
         </div>
@@ -217,7 +217,7 @@ export default function DraggableBot() {
               </div>
               <div>
                 <div className="font-bold text-xs text-white flex items-center gap-1.5">
-                  Campus AI Assistant
+                  LUNA • Campus AI
                   <span className="bg-cyan-400/20 text-cyan-200 text-[9px] px-1.5 py-0.2 rounded font-semibold border border-cyan-400/30">
                     One Front Door
                   </span>
@@ -251,7 +251,7 @@ export default function DraggableBot() {
                       timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
                       type: 'answer',
                       domain: 'general',
-                      domainLabel: 'One Front Door Campus AI',
+                      domainLabel: 'LUNA Campus AI',
                       confidence: 0.99,
                       answer: `Conversation reset. How can I assist you with university academic services today, **${STUDENT_PROFILE.name}**?`
                     }

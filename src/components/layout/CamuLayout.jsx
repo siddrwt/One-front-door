@@ -261,11 +261,8 @@ export default function CamuLayout({ children }) {
                       placeholder="Search portal..."
                       value={searchQuery}
                       onChange={(e) => setSearchQuery(e.target.value)}
-                      className="pl-9 pr-12 h-9 text-xs bg-slate-50 border-slate-200/90 focus:bg-white focus:border-blue-500 rounded-xl transition-all placeholder:text-slate-400"
+                      className="pl-9 pr-3 h-9 text-xs bg-slate-50 border-slate-200/90 focus:bg-white focus:border-blue-500 rounded-xl transition-all placeholder:text-slate-400"
                     />
-                    <kbd className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[10px] font-bold text-slate-400 border border-slate-200/90 px-1.5 py-0.5 rounded-md bg-white shadow-2xs">
-                      Ctrl K
-                    </kbd>
                   </div>
                 </div>
               )}
